@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
