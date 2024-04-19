@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+docs: update view-results-in-terminal.md (#66)
