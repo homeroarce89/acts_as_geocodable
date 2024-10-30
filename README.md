@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
